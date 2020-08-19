@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hollywood-react/static/css/main.a6871817.chunk.css",
+    "main.js": "/hollywood-react/static/js/main.65db6eec.chunk.js",
+    "main.js.map": "/hollywood-react/static/js/main.65db6eec.chunk.js.map",
+    "runtime-main.js": "/hollywood-react/static/js/runtime-main.435bb27c.js",
+    "runtime-main.js.map": "/hollywood-react/static/js/runtime-main.435bb27c.js.map",
+    "static/js/2.0faff789.chunk.js": "/hollywood-react/static/js/2.0faff789.chunk.js",
+    "static/js/2.0faff789.chunk.js.map": "/hollywood-react/static/js/2.0faff789.chunk.js.map",
+    "index.html": "/hollywood-react/index.html",
+    "precache-manifest.cff6fa23662ddd0271f77cb68b774f81.js": "/hollywood-react/precache-manifest.cff6fa23662ddd0271f77cb68b774f81.js",
+    "service-worker.js": "/hollywood-react/service-worker.js",
+    "static/css/main.a6871817.chunk.css.map": "/hollywood-react/static/css/main.a6871817.chunk.css.map",
+    "static/js/2.0faff789.chunk.js.LICENSE.txt": "/hollywood-react/static/js/2.0faff789.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.435bb27c.js",
+    "static/js/2.0faff789.chunk.js",
+    "static/css/main.a6871817.chunk.css",
+    "static/js/main.65db6eec.chunk.js"
+  ]
+}
