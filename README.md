@@ -2,7 +2,7 @@
 
 # 📖 [hollywood-react] <a name="about-project"></a>
 
-**[hollywood-react]** Is a react app that fetches data of starwars charachters. Still work in progress.
+**hollywood-react** Is a react app that fetches data of starwars from the Swapi API. It uses jquery and sync await to fetch data.  At the moment it only fetches data from the people category as the planet category needs to be updated with recent api changes.
 
 ## 🛠 Built With <a name="built-with"></a>
 
